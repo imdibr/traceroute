@@ -1,0 +1,4 @@
+g++ (C++17 or later)
+Linux/macOS system
+Root privileges for raw socket operations
+
