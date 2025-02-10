@@ -30,10 +30,8 @@ This is a simple traceroute program implemented in C++. It uses raw sockets to s
    ```
 
 ## Example Usage
-[Screenshot 2025-02-10 at 11 32 05 AM](https://github.com/user-attachments/assets/dd3230ae-559a-460f-95ce-b881c31ae745)
+![Screenshot 2025-02-10 at 11 32 05 AM](https://github.com/user-attachments/assets/4d5aaf42-e6d0-459a-99a5-45276373cea3)
 
-```bash
-sudo ./traceroute google.com
-```
+
 
 
